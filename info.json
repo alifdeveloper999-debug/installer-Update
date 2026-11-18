@@ -6,6 +6,7 @@
   "Byte_size": "59208182",
   "download_url": "https://github.com/alifdeveloper999-debug/installer-Update/releases/download/1%2C0%2C0/digha-app-setup.zip",
   "image_url": "https://github.com/alifdeveloper999-debug/installer-Update/blob/main/ff.jpg",
+  "install_path": "%LocalAppData%\\DighaCorp\\DighaApp",
   "file_list": [
     "Test Damo.exe",
     "D3DCompiler_47_cor3.dll",
