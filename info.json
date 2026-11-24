@@ -8,9 +8,9 @@
   "download_url": "https://github.com/alifdeveloper999-debug/installer-Update/releases/download/1%2C0%2C0/digha-app-setup.zip",
   "image_urls": [
     "https://files.catbox.moe/9efel4.jpg",
-    "https://files.catbox.moe/second_image.jpg"
+    ""
   ],
-  "install_path": "%LocalAppData%\\DighaCorp\\syspsyApp",
+  "install_path": "%Downloads%\\DighaCorp\\syspsyApp",
   "file_list": [
     "Test Damo.exe",
     "D3DCompiler_47_cor3.dll",
